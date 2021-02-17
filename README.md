@@ -11,6 +11,9 @@
 <p align="center">
   <strong>❤️</strong>
 </p>
+---
+
+![discord banner](https://discord.c99.nl/widget/theme-3/554086721688698882.png)
 
 ---
 
