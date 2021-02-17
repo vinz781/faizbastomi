@@ -6,14 +6,13 @@
     <a href="https://facebook.com/faiz.bastomi"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/facebook.png?raw=true"></a>
 </p>
 
+![Discord Banner](https://discord.c99.nl/widget/theme-3/554086721688698882.png)
+
 <h3 align="center">Faiz Bastomi</h3>
 
 <p align="center">
   <strong>❤️</strong>
 </p>
----
-
-![discord banner](https://discord.c99.nl/widget/theme-3/554086721688698882.png)
 
 ---
 
