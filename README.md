@@ -5,12 +5,10 @@
 ![banner](https://discord.c99.nl/widget/theme-3/554086721688698882.png)
 
 <p align="center">
-  <a href="https://twitter.com/FaizBastomi"><img height="35" src="https://github.com/FaizBastomi/faizbastomi/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/faiz_bastomy"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://facebook.com/faiz.bastomi"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/facebook.png?raw=true"></a>
+    <a href="https://instagram.com/its.mevinz"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Faiz Bastomi</h3>
+<h3 align="center">Vinz</h3>
 
 <p align="center">
   <strong>❤️</strong>
